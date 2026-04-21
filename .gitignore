@@ -1,0 +1,1 @@
+-e "pes\ntest_objects\ntest_tree\n*.o\n.pes/" 
